@@ -8,6 +8,11 @@
 
 _coming soon_
 
+## Alternatives?
+
+- [Presets](https://killihu.vstskins.com/presets/) device by killihu
+- Variations device in [Performance Pack](https://www.ableton.com/en/packs/performance-pack/) by Iftah
+
 ## Development
 
 ### Prerequisites
